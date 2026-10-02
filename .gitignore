@@ -1,0 +1,18 @@
+# system files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# environments
+.venv/
+.env
+
+# large/local data
+data/raw/
+data/interim/
+
+# temporary outputs
+*.tmp
