@@ -1,0 +1,10 @@
+SAR:
+figure out change detection for two bands only
+
+optical: 
+figure out how to get better results using some GeoAI model
+can i use more than 3 bands in changestar?
+
+
+idea: run random forest or similar on the output of CVA.
+but: CVA does not appear to detect change where the riverbed was before -> instance segmentation would be useful!
