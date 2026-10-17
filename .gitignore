@@ -14,5 +14,7 @@ __pycache__/
 data/raw/
 data/interim/
 
+project/results
+
 # temporary outputs
 *.tmp
