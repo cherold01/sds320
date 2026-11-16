@@ -1,0 +1,29 @@
+# system files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# environments
+.venv/
+.env
+
+# large/local data
+data/raw/
+data/interim/
+
+project/results
+
+# temporary outputs
+*.tmp
+data/processed/oscd100
+notebooks/nepal_visualisation.qgz
+scripts/B2_rn50_moco_0099.pth
+scripts/B2_moco_rn50_0099_ckpt.pth
+notebooks/lightning_logs
+data/processed
+results/logs/
+results/predictions/
+notebooks/lightning_logs
