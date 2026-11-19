@@ -28,3 +28,5 @@ results/logs/
 results/predictions/
 notebooks/lightning_logs
 results/s0
+results/model_comparison/s0
+results/model_comparison/s9
